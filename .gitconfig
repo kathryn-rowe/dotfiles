@@ -1,0 +1,13 @@
+[user]
+	name = Kathryn Rowe
+	email = kathryn.rowe@acgov.org
+[core]
+  editor = vim
+[merge]
+  tool = vimdiff
+[alias]
+  s = status
+  c = commit
+  gitcommit = commit
+  pll = pull
+  psuh = push

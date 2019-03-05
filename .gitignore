@@ -1,0 +1,14 @@
+# vim
+*.swp
+
+# emacs
+\#*#
+.emacs.d/elpa
+.emacs.d/auto-save-list
+
+# python
+*.pyc
+*.pyo
+
+# macos
+.DS_Store
